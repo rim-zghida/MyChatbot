@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  color: rgb(8, 65, 93);
+}
+
+a {
+
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.w-full{
+  
+}
